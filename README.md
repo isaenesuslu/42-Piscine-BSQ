@@ -1,5 +1,4 @@
 
-````markdow
 # 🟦 BSQ (Biggest Square)
 
 > **42 Piscine Final Project**
