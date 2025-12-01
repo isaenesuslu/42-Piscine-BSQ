@@ -120,18 +120,8 @@ This project implements an efficient algorithm (typically Dynamic Programming) t
 2.  The value is derived from the minimum of the neighboring cells (left, top, top-left) plus one.
 3.  The maximum value in this matrix determines the size and position of the biggest square.
 
------
-
-## 👤 Author
-
-**Isa Enes Uslu**
-
-  - Github: [@isaenesuslu](https://www.google.com/search?q=https://github.com/isaenesuslu)
-  - 42 Profile: [iuslu](https://www.google.com/search?q=https://profile.intra.42.fr/users/iuslu)
 
 -----
 
 *This project was completed as part of the 42 Kocaeli Piscine curriculum.*
-
-```
 ```
