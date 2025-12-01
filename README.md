@@ -29,7 +29,7 @@ You need a **C compiler** (gcc or clang) and **Make** installed on your system.
    ```bash
    git clone [https://github.com/isaenesuslu/42-Piscine-BSQ.git](https://github.com/isaenesuslu/42-Piscine-BSQ.git)
    cd 42-Piscine-BSQ
-````
+
 
 2.  Compile the executable using the Makefile:
     ```bash
